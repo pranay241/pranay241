@@ -1,151 +1,91 @@
-
 <div align="center">
 
-# Hi 👋, I'm Pranay Kumar
+# Hi there, I'm Pranay Kumar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Electrical+Engineering+%40+IIT+Hyderabad;Machine+Learning+%7C+Signal+Processing;Computer+Vision+%7C+Audio+AI;Software+Engineering+Enthusiast;Building+Real-World+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Electrical+Engineering+%40+IIT+Hyderabad;Machine+Learning+%7C+Signal+Processing;Computer+Vision+%7C+Audio+AI;Building+Real-World+AI+Projects" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=pranay241&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
 ## 🚀 About Me
 
-🎓 Electrical Engineering @ IIT Hyderabad
+- 🎓 Electrical Engineering @ **IIT Hyderabad**
+- 💻 Focused on **Machine Learning, Signal Processing, Computer Vision & Audio AI**
+- 🌱 Currently deepening my skills in **Advanced DSA, System Design & Large-Scale ML Systems**
+- 🎯 Interested in bridging **research and real-world engineering**
+- 📫 Reach me at **your.email@example.com** *(update this)*
 
-💻 Interested in
+<br/>
 
-- Machine Learning
-- Deep Learning
-- Signal Processing
-- Audio AI
-- Computer Vision
-- Software Engineering
+## ⚡ Tech Stack
 
-🌱 Currently Learning
-
-- Advanced DSA
-- System Design
-- Large Scale ML Systems
-- Competitive Programming
-
----
-
-# ⚡ Tech Stack
-
-### Languages
-
+**Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" />
 </p>
 
-### AI / ML
-
+**AI / ML**
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-### Tools
-
+**Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
----
+<br/>
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🎤 AVZoom
+### 🎤 [AVZoom](https://github.com/pranay241/AVZoom) — Flagship Project
+Real-time audio-visual speaker enhancement system combining face detection, lip tracking, and speech enhancement.
+`PyTorch` `OpenCV` `Computer Vision` `Audio Processing`
 
-Real-Time Audio Visual Speaker Enhancement
+### 🗣 [Synthetic Speech Attribution](https://github.com/pranay241)
+Deep learning system for identifying which model generated a piece of synthetic speech, using CNNs and audio feature extraction.
+`PyTorch` `CNN` `Audio Processing` `Feature Extraction`
 
-- Face Detection
-- Lip Tracking
-- Speech Enhancement
-- PyTorch
-- OpenCV
-- Computer Vision
+> 💡 Update the links above to point to your actual repos so visitors can click straight through.
 
-⭐ Flagship Project
+<br/>
 
----
-
-## 🗣 Synthetic Speech Attribution
-
-Deep Learning system for identifying synthetic speech generators.
-
-- CNN
-- Audio Processing
-- Feature Extraction
-- PyTorch
-
----
-
-
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranay241&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay241&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=pranay241&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=pranay241&theme=tokyonight&margin-w=15&no-frame=true&row=1" />
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranay241&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+<br/>
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+  <a href="https://github.com/pranay241"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
----
+<br/>
 
 <div align="center">
 
-### 💡 "Building AI that can see, hear and understand."
+*"Building AI that can see, hear, and understand."*
 
 </div>
