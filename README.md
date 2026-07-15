@@ -14,9 +14,9 @@
 
 - 🎓 Electrical Engineering @ **IIT Hyderabad**
 - 💻 Focused on **Machine Learning, Signal Processing, Computer Vision & Audio AI**
-- 🌱 Currently deepening my skills in **Advanced DSA, System Design & Large-Scale ML Systems**
+- 🌱 Currently deepening my skills in ** System Design & Large-Scale ML Systems**
 - 🎯 Interested in bridging **research and real-world engineering**
-- 📫 Reach me at **your.email@example.com** *(update this)*
+- 📫 Reach me at *kpranay241@gmail.com*
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=python,c,latex,verilog" />
 </p>
 
 **AI / ML**
@@ -41,7 +41,7 @@
 
 ## 📌 Featured Projects
 
-### 🎤 [AVZoom](https://github.com/pranay241/AVZoom) — Flagship Project
+### 🎤 [AVZoom](https://github.com/pranay241/AVZoom) 
 Real-time audio-visual speaker enhancement system combining face detection, lip tracking, and speech enhancement.
 `PyTorch` `OpenCV` `Computer Vision` `Audio Processing`
 
