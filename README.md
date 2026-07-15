@@ -24,7 +24,7 @@ Currently focused on:
 - 💻 Data Structures & Algorithms
 - ⚙️ System Design & Scalable ML Systems
 
-I enjoy taking ideas from research papers and turning them into practical, end-to-end applications.
+
 
 📫 **Email:** **kpranay241@gmail.com**
 
