@@ -1,5 +1,5 @@
 ### Hi 👋🏽, I'm Pranay Kumar
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=pranay241&label=Profile%20views&color=0e75b6&style=flat" alt="pranay241" />
 </p>
 I am an undergraduate student in Electrical Engineering at the [Indian Institute of Technology Hyderabad](https://www.iith.ac.in), working broadly on **machine learning and deep learning**, with a focus on computer vision, audio processing, and signal processing.
