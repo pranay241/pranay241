@@ -11,5 +11,5 @@ I'm currently deepening my skills in data structures & algorithms, system design
 **Languages and Tools:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,tensorflow,opencv,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,pytorch,tensorflow,opencv,git,linux,matlab,latex,verilog" />
 </p>
